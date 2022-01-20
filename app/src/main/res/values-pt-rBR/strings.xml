@@ -4,4 +4,5 @@
     <string name="cd_btn_simulate">Botão de simulação de partidas</string>
     <string name="cd_img_away_team">Imagem do time local</string>
     <string name="cd_img_home_team">Imagem do time da casa</string>
+    <string name="error_api">Falha na rede</string>
 </resources>
