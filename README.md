@@ -6,3 +6,7 @@ Este repositório foi organizado em algumas branches que representam as implemen
 
 1. Desenvolvimento Mobile Nativo para Android
     - [release/desenvolvimento-nativo-android](https://github.com/srcabral/matches-simulator/tree/release/desenvolvimento-nativo-android)
+2. Componentes, Layouts e UI/UX Em Apps
+    - [release/componentes-layouts-ui-ux](https://github.com/srcabral/matches-simulator/tree/release/componentes-layouts-ui-ux-em-apps-android)
+3. Java e Kotlin, construindo app Android
+    - [release/java-kotlin-construindo-app-android](https://github.com/srcabral/matches-simulator/tree/release/java-kotlin-construindo-app-android)
