@@ -30,6 +30,6 @@ Este repositório foi organizado em algumas branches que representam as implemen
 
 * Github Pages para criar um [repositório que simula uma API REST](https://github.com/srcabral/matches-simulator-api) para obtenção de partidas.
 * Retrofit para consumir a API
-* Linguagens de programação Java e Kotlin 
+* Linguagens de programação Java e Kotlin para o desenvolivmento
 
 
