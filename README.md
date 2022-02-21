@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-App Android nativo de simulação de partidas desenvolvido durante a 
+App Android nativo de simulação de partidas desenvolvido durante a semana Sportheca Mobile Dev Week.
 
 Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
